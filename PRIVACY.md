@@ -8,6 +8,10 @@ Remember Sidebar does not collect, store, transmit, or share any personal data.
 - On those pages it reads and rewrites one browser `localStorage` entry
   (`spaces-sidebar-open-by-user`) that records whether the Spaces sidebar is
   open, and it may click the sidebar's own close button.
+- To tell your own toggle from the page's automatic one, it notes (in memory
+  only) whether a real click or key press happened in the last fraction of a
+  second. It does not record what you click or type, and nothing about this is
+  saved or sent anywhere.
 - The only thing it saves is its own on/off switch, in Chrome's extension
   storage on your device (`chrome.storage.local`).
 
