@@ -7,6 +7,10 @@ Remembers when you close the Spaces sidebar on miro.com boards, so it stays clos
 
 **Category:** Productivity
 
+**Homepage URL:** https://github.com/realrobertjohnson/remember-sidebar
+
+**Support URL:** https://forms.gle/MdcMbqMqPoieU3Lr7
+
 **Detailed description:**
 Closing the Spaces sidebar on a board is saved, but boards inside a Space reopen it every time they load. Remember Sidebar makes your choice stick.
 
@@ -14,7 +18,8 @@ Closing the Spaces sidebar on a board is saved, but boards inside a Space reopen
 - Open it yourself whenever you like. Your own toggle always works and is remembered.
 - One click on the toolbar icon turns the extension on or off, instantly.
 - Runs only on miro.com. Collects no data and makes no network requests.
-- Open source, with no build step, so it is easy to review: (repository link)
+- Open source, with no build step, so it is easy to review: https://github.com/realrobertjohnson/remember-sidebar
+- Feedback, questions, or a bug to report? https://forms.gle/MdcMbqMqPoieU3Lr7
 
 Not affiliated with or endorsed by Miro.
 
@@ -32,4 +37,4 @@ Keep the Spaces sidebar on miro.com boards closed when the user has closed it, i
 
 **Data usage:** Collects none of the listed data types. Not sold or transferred. Not used for unrelated purposes or creditworthiness.
 
-**Privacy policy URL:** (link to PRIVACY.md in the repository)
+**Privacy policy URL:** https://github.com/realrobertjohnson/remember-sidebar/blob/main/PRIVACY.md

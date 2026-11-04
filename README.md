@@ -40,7 +40,8 @@ off). Turning it off takes effect immediately in open tabs.
   3. Click **Load unpacked** and select this folder.
   4. Reload any open Miro tabs.
 
-Works in Edge and other Chromium browsers too.
+Works in Chrome and Edge, and should work in other Chromium-based browsers
+(Brave, Opera, Vivaldi). Firefox and Safari are not supported yet.
 
 ## Vet it yourself
 
@@ -68,6 +69,14 @@ folder:
 ```
 zip -r remember-sidebar.zip manifest.json background.js main.js icons
 ```
+
+## Feedback and support
+
+Comments, questions, and bug reports are welcome:
+
+- Bug reports: [open an issue](https://github.com/realrobertjohnson/remember-sidebar/issues)
+- Anything else, including questions: [feedback form](https://forms.gle/MdcMbqMqPoieU3Lr7). Your name and
+  email are only collected if you ask to be contacted.
 
 ## Limitations
 

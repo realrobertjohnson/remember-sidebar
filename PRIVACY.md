@@ -11,4 +11,10 @@ Remember Sidebar does not collect, store, transmit, or share any personal data.
 - The only thing it saves is its own on/off switch, in Chrome's extension
   storage on your device (`chrome.storage.local`).
 
-Questions or concerns: open an issue in this repository.
+## Feedback form
+
+The optional [feedback form](https://forms.gle/MdcMbqMqPoieU3Lr7) is separate from the extension. It
+collects your name and email only if you choose to be contacted, and uses them
+only to reply to you. Responses are stored in the author's Google account.
+
+Questions or concerns: [open an issue](https://github.com/realrobertjohnson/remember-sidebar/issues) in this repository.
