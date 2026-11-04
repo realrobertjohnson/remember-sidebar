@@ -33,7 +33,7 @@ off). Turning it off takes effect immediately in open tabs.
 
 ## Install
 
-- **Chrome Web Store:** _link goes here once published_
+- **Chrome Web Store:** _coming soon_
 - **From source** (also the route for locked-down environments):
   1. Download or clone this repository.
   2. Open `chrome://extensions` and turn on **Developer mode**.
