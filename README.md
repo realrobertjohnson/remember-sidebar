@@ -34,6 +34,7 @@ off). Turning it off takes effect immediately in open tabs.
 ## Install
 
 - **Chrome Web Store:** [Remember Sidebar](https://chromewebstore.google.com/detail/remember-sidebar/hgedmmombbglbgbmfbebjanefbpbapgi)
+  New listings can show an Enhanced Safe Browsing notice at first. This is normal for new publishers. The full source is in this repo if you'd like to review or build it yourself.
 - **From source** (also the route for locked-down environments):
   1. Download or clone this repository.
   2. Open `chrome://extensions` and turn on **Developer mode**.
